@@ -1,30 +1,26 @@
 module.exports = {
   siteTitle: 'Ibrahim Jamil',
   siteDescription:
-    'I am a full stack web developer with expertise in web, mobile, devops with skills in react-native, nestjs, mern',
+    'I am a full stack web developer with expertise in web, mobile, devops with skills in Next.js Nestjs, MERN',
   siteKeywords:
     'software engineer, web, mobile, react-native, reactjs, nestjs, nodejs, nextjs, devops, docker, kubernetes',
   siteUrl: 'https://yashitanamdeo.github.io/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Ibrahim Jamil',
+  name: 'Qammar Raza',
   location: 'Lahore, Pakistan',
-  email: 'ibrahimjamil090@gmail.com',
+  email: 'qammar.raza510@gmail.com',
   github: 'https://github.com/yashitanamdeo',
   twitterHandle: '@',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/ibrahimjamil',
+      url: 'https://github.com/qammar-tech?tab=overview&from=2021-12-01&to=2021-12-31',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/muhammad-ibrahim-6933b9198/',
-    },
-    {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/ibrahimjamil11/',
+      url: 'https://www.linkedin.com/in/qammar-raza-6a040b1b8/',
     },
   ],
 
