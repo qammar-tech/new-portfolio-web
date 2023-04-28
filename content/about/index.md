@@ -4,7 +4,7 @@ avatar: 'me.jpg'
 skills:
   - Learning New Skill
   - Problem Solving
-  - Coding Challengies
+  - Coding Challenges
   - Badminton
 ---
 

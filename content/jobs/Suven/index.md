@@ -1,13 +1,13 @@
 ---
 date: '2021-06-11'
 title: 'Software Engineer'
-company: 'Devigital Systems'
+company: 'Digital Cru'
 location: Lahore, Pakistan
-range: 'Jan 2020 - Dec 2020'
-url: 'https://www.devigital.com/'
+range: 'Jan 2019 - Jan 2020'
+url: ''
 ---
 
-- Worked as a outsource developer to [My license]() US based team and worked there for Optimizing their existing production ready site of my license and solved daily tickets assigned to me.
-- Developed their company website [Devigital Systems](https://www.devigital.com/)
+- Worked as a MERN Stack Developer for US based team and worked there for Optimizing their existing production ready site and solved daily tickets assigned to me.
+- Contributed on In-house Projects as Backend Developer
 - Optimized Some backend logics that required some optimizations.
-- Tech-stack: React, Node, Material-UI, Redux, Redux-Saga.
+- Tech-stack: React, Node, Material-UI, Redux, Redux-Thunk.
